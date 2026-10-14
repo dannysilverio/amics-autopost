@@ -11,8 +11,8 @@ import urllib.request, urllib.parse, urllib.error
 IG_LOGIN = bool(os.environ.get("IG_TOKEN"))
 API = "https://graph.instagram.com/v21.0" if IG_LOGIN else "https://graph.facebook.com/v21.0"
 TOKEN = os.environ["IG_TOKEN"] if IG_LOGIN else os.environ["META_TOKEN"]
-IG = os.environ.get("IG_USER_ID", "me")
-PAGE = os.environ.get("FB_PAGE_ID") if not IG_LOGIN else None
+IG = os.environ.get("IG_USER_ID") or "me"
+PAGE = (os.environ.get("FB_PAGE_ID") or None) if not IG_LOGIN else None
 DRY = os.environ.get("DRY_RUN") == "1"
 
 def call(path, params=None, method="POST"):
