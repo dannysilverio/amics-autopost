@@ -1,0 +1,30 @@
+name: Amics autopost
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [post-now]
+permissions:
+  contents: write
+concurrency: amics-autopost
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Auto-approval gate
+        run: python review.py
+      - name: Post next due item
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+        run: python post.py
+      - name: Save state
+        run: |
+          git config user.name "amics-autopost"
+          git config user.email "autopost@users.noreply.github.com"
+          git add schedule.json
+          git diff --cached --quiet || (git commit -m "Mark item posted" && git push)
