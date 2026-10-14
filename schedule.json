@@ -1,0 +1,44 @@
+{
+  "timezone_note": "post_after is UTC. Nothing posts until approved is true.",
+  "items": [
+    {
+      "id": "E1",
+      "title": "Clicks vs clients",
+      "type": "reel",
+      "approved": true,
+      "post_after": "2026-10-16T14:00:00+00:00",
+      "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/hf_20261014_162944_78528888-b10d-4abd-bb1e-bf06cd03578a.mp4",
+      "caption": "Most people judge an ad by clicks. Track the whole path, from the first click to the signed client.\n\n#advertising #paidmedia #marketingtips #digitalmarketing\n\n@amicsadagency",
+      "topic": "measurement",
+      "script": "Most people judge an ad by clicks. Clicks are cheap and they prove nothing. The number that matters is cost per booked consultation. Track the whole path, from the first click to the signed client, or you are guessing with real money.",
+      "is_ad": false,
+      "approval_note": "auto-gate passed"
+    },
+    {
+      "id": "E2",
+      "title": "What a Meta Pixel is",
+      "type": "reel",
+      "approved": true,
+      "post_after": "2026-10-18T14:00:00+00:00",
+      "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/hf_20261014_164743_c92aac93-92b9-4bb2-a72d-d3f14f1f5804.mp4",
+      "caption": "What a Meta Pixel is, in plain English. No pixel, no learning.\n\n#metaads #facebookads #paidmedia #marketingtips\n\n@amicsadagency",
+      "topic": "tracking",
+      "script": "A Meta Pixel is a small piece of code on your website. It tells Meta what a visitor did, like viewing a page or booking a call. Meta uses that to find more people like them. No pixel, no learning, and the algorithm is flying blind.",
+      "is_ad": false,
+      "approval_note": "auto-gate passed"
+    },
+    {
+      "id": "E14",
+      "title": "The first three seconds",
+      "type": "reel",
+      "approved": true,
+      "post_after": "2026-10-20T14:00:00+00:00",
+      "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/hf_20261014_164801_8fdb6fa3-460a-48af-89cd-23995ca45c67.mp4",
+      "caption": "Your opening has to earn the next few seconds. Lead with the problem, not your logo.\n\n#adcreative #socialmediamarketing #videomarketing #advertising\n\n@amicsadagency",
+      "topic": "creative",
+      "script": "On social, people decide almost instantly whether to keep watching. Your opening has to earn the next few seconds. Lead with the problem or the surprising result, not your logo. Put the context after you have their attention.",
+      "is_ad": false,
+      "approval_note": "auto-gate passed"
+    }
+  ]
+}
