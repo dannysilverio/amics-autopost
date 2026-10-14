@@ -51,7 +51,11 @@
       "script": "Someone searching for a lawyer or a med spa has a problem right now. Someone scrolling Instagram is just killing time. Same business, different mindset. Search catches people ready to act. Social builds trust before they are ready. Use each for what it does best.",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-14T19:30:00.713549+00:00",
+      "post_ids": {
+        "instagram": "18117043004096453"
+      }
     },
     {
       "id": "E6",
