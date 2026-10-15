@@ -153,7 +153,9 @@
       ],
       "caption": "Which post actually drove the sale? Most teams cannot answer that, and the fix takes about two minutes per link.\n\nUTM tags are short labels added to the end of a link. When someone clicks, your analytics tool reads the label and tells you exactly where that visit came from.\n\nDo this today:\n1. Pick three tags for every link you share: source (instagram), medium (social or email or paid), and campaign (the name of the push, like fall_launch).\n2. Use the same spelling and lowercase every time. \"Instagram\" and \"instagram\" show up as two different sources.\n3. Keep a simple sheet with the naming rule so everyone on your team follows it.\n4. Open your analytics tool after a week and compare campaigns side by side.\n\nSwipe through for the full breakdown. Save this for your next link, and send it to whoever builds your links.\n\n#utmtracking #marketinganalytics #digitalmarketing #adops",
       "topic": "tracking",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR2",
@@ -168,7 +170,9 @@
       ],
       "caption": "Four numbers show up in almost every ad report. Here is what each one means and what to check first.\n\nCPM: what you pay to be shown 1,000 times.\nCTR: out of everyone who saw the ad, how many clicked.\nCPC: what you pay for one click.\nCPA: what you pay for one result, like a lead or a sale.\n\nDo this today:\n1. Open your last report and find all four numbers for each campaign.\n2. If CPM is high, attention is getting expensive. Look at the audience and the creative.\n3. If CTR is low, the message is not matching the person. Test a new hook.\n4. If CPA is high while clicks look fine, check the step after the click.\n5. Change one thing at a time, then re-check in a week.\n\nSave this for report day. Comment \"metrics\" if you want the next post to go deeper on one of them.\n\n#adspend #paidmedia #marketingmetrics #digitalmarketing",
       "topic": "measurement",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR3",
@@ -184,7 +188,9 @@
       ],
       "caption": "Is your ad audience too narrow or too broad? Both cost you, in different ways.\n\nToo narrow: the platform has little room to learn, delivery stalls, and prices climb.\nToo broad: the message tries to speak to everyone, and you get clicks from people who were never a fit.\n\nDo this today:\n1. Start with a clear location. Be specific about where your customers actually are.\n2. Add one or two interests, or none at all, and let the platform find people.\n3. Run it for a full week before judging.\n4. If delivery stalls, widen a little. If clicks come from the wrong people, tighten the targeting or sharpen the message.\n\nSwipe for the full checklist. Save this for your next campaign.\n\n#metaads #facebookads #adtargeting #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR4",
@@ -199,7 +205,9 @@
       ],
       "caption": "Retargeting means showing ads to people who already know you. That is why it needs a different message than a first hello.\n\nWho to include:\n1. Website visitors from the last few weeks\n2. People who watched a good portion of your videos\n3. People who engaged with your Instagram profile or posts\n\nDo this today:\n1. Build one retargeting audience, starting with website visitors.\n2. Keep the window short so the audience stays warm. Fewer days usually means a fresher audience.\n3. Write a message for someone who has already seen you: answer a common question, show a result, or make the next step easy.\n4. Do not reuse your cold ad. Warm people need a different message.\n\nSave this for your next campaign, and send it to whoever runs your ads.\n\n#retargeting #remarketing #metaads #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR5",
@@ -214,7 +222,9 @@
       ],
       "caption": "A lookalike audience finds new people who resemble your best customers. The quality of the result depends almost entirely on the list you start with.\n\nThat starting list is called the seed.\n\nDo this today:\n1. Export a list of real buyers, not just visitors or followers.\n2. Use recent customers, because they reflect who is buying now.\n3. Make sure the list is large enough for the platform to use. Check the platform's minimum size.\n4. Upload it as a custom audience, then create the lookalike from it.\n5. Test it against a broad audience and compare results after a week.\n\nBetter seed, better lookalike. Swipe for the checklist and save this for your next audience.\n\n#lookalikeaudience #metaads #adtargeting #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR6",
@@ -229,7 +239,9 @@
       ],
       "caption": "Why do two reports show different sales for the same campaign? Usually it comes down to the attribution window.\n\n7-day click counts a sale if someone clicked your ad and bought within 7 days.\n1-day view counts a sale if someone saw your ad, did not click, and bought within a day.\n\nSame sale, different rules, different numbers.\n\nDo this today:\n1. Check which attribution window each report uses. It is usually in the column settings.\n2. Match the window across reports before you compare them.\n3. Match the date range, including the time zone.\n4. Match the definition of a conversion, so you are counting the same event.\n5. Write the window next to every number you share.\n\nSave this for report day, and send it to anyone who compares dashboards.\n\n#attribution #marketinganalytics #metaads #adops",
       "topic": "measurement",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR7",
@@ -244,7 +256,9 @@
       ],
       "caption": "In Google Ads, match types decide which searches can trigger your ad. Choosing the right one controls both reach and waste.\n\nBroad: the widest reach, related searches included, and the least control.\nPhrase: searches that carry the meaning of your keyword.\nExact: searches with the same meaning as your keyword.\n\nDo this today:\n1. Start tighter, with phrase or exact on your best keywords.\n2. Open the search terms report and read the real searches that triggered your ads.\n3. Add the ones that fit as keywords, and block the ones that do not.\n4. Widen only the keywords that have earned it.\n\nControl first, reach second. Swipe for the full guide and save this for your next search campaign.\n\n#googleads #searchads #ppc #paidmedia",
       "topic": "paid media",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR8",
@@ -259,7 +273,9 @@
       ],
       "caption": "Negative keywords tell Google what NOT to show your ad for. They are one of the simplest ways to stop wasting budget on searches that were never going to convert.\n\nExample: a law firm adds the words \"free\" and \"jobs\" so people looking for free help or employment do not click.\n\nDo this today:\n1. Open the search terms report in Google Ads.\n2. Scan for searches that do not fit what you offer.\n3. Add those words as negative keywords.\n4. Repeat every week. The list gets sharper and your spend gets cleaner over time.\n\nSwipe for the steps. Save this for your next review and share it with whoever manages your search ads.\n\n#googleads #ppc #searchads #paidmedia",
       "topic": "paid media",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR9",
@@ -274,7 +290,9 @@
       ],
       "caption": "Google gives each keyword a Quality Score from 1 to 10. It looks at three things, and better quality can lower your cost per click.\n\n1. Expected click rate\n2. Ad relevance\n3. Landing page experience\n\nDo this today:\n1. Group keywords by theme, so each ad group covers one idea.\n2. Write ads that mirror the words people actually search.\n3. Make sure the landing page delivers what the ad promised.\n4. Check the Quality Score columns in your keyword view and start with the lowest scores.\n\nRelevance is rewarded. Swipe for the breakdown and save this for your next search campaign.\n\n#googleads #qualityscore #ppc #paidmedia",
       "topic": "paid media",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR10",
@@ -289,7 +307,9 @@
       ],
       "caption": "Reach and impressions sound alike, but they answer different questions.\n\nReach: how many different people saw your ad.\nImpressions: how many times your ad was shown.\n\nExample: one person who sees your ad 3 times is 1 reach and 3 impressions.\n\nDo this today:\n1. Use reach when you want to know the size of the audience you touched.\n2. Use impressions when you want to track volume.\n3. Compare the two to see how often each person is seeing the ad.\n4. Label which one you mean whenever you share a report.\n\nSave this for report day, and send it to a teammate who mixes them up.\n\n#adreporting #marketingmetrics #metaads #digitalmarketing",
       "topic": "measurement",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR11",
@@ -304,7 +324,9 @@
       ],
       "caption": "New ads often wobble in the first days. That is the learning phase, and it is normal.\n\nDuring it, the platform is still testing who to show your ad to. Meta looks for about 50 results in 7 days per ad set to exit it, so results can swing from day to day until then.\n\nDo this today:\n1. Avoid editing budgets, audiences, or creative every day while it learns.\n2. Make sure your budget is large enough to reach that number of results for your chosen goal.\n3. Use fewer ad sets so each one gets enough data.\n4. Judge performance after the learning period, not on day two.\n\nPatience is a strategy. Swipe for the common mistakes and save this for your next launch.\n\n#metaads #facebookads #adlearning #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR12",
@@ -319,7 +341,9 @@
       ],
       "caption": "Every ad account is organized in three levels, and knowing what lives at each one keeps your testing clean.\n\nCampaign: the goal.\nAd set: the audience, budget, schedule, and placements.\nAd: the creative and the copy.\n\nDo this today:\n1. Choose the goal first, since everything else follows from it.\n2. Define the audience in the ad set.\n3. Build the creative last, and test one thing at a time.\n4. Name each level clearly, so you can read your reports later.\n\nGoal first, creative last. Swipe for the full guide and save this for your next build.\n\n#metaads #adstructure #paidmedia #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR13",
@@ -334,7 +358,9 @@
       ],
       "caption": "Did your ad cause the sale, or did it just get the credit? That is the difference between attribution and incrementality.\n\nAttribution shows who saw an ad and then bought. Incrementality asks who would NOT have bought without the ad. Some buyers were already on their way.\n\nRun a simple test:\n1. Hold out a region or an audience, and do not show them the ads.\n2. Run the ads for everyone else for a set period.\n3. Compare results between the two groups.\n4. The gap between them is your true lift.\n\nSwipe for the steps. Save this for your next test, and send it to whoever reports your results.\n\n#incrementality #marketingmeasurement #paidmedia #adops",
       "topic": "measurement",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR14",
@@ -349,7 +375,9 @@
       ],
       "caption": "Do your most recent days always look weaker than the rest? That is probably conversion lag.\n\nConversion lag is the time between an ad click and the purchase. People click today and buy later, so the last few days of a report keep filling in.\n\nDo this today:\n1. Find your typical delay. Look at how long past customers took from first click to purchase.\n2. Avoid judging yesterday or the day before.\n3. Compare matured days only, meaning days where the full lag window has passed.\n4. Expect longer lag for bigger decisions.\n\nGive the numbers time to arrive before you make a call. Swipe for the steps and save this for report day.\n\n#conversionlag #marketinganalytics #metaads #adops",
       "topic": "measurement",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR15",
@@ -364,7 +392,9 @@
       ],
       "caption": "Messy campaign names make reports hard to read, hard to filter, and hard to hand off. The fix is one naming pattern that everyone uses.\n\nA simple pattern:\n1. Platform and objective, like meta_leads\n2. Audience and creative, like warm_video3\n3. Start date, like oct\n\nPut together: meta_leads_warm_video3_oct\n\nDo this today:\n1. Agree on the pattern with your team.\n2. Write it in a shared doc.\n3. Use it for every campaign, ad set, and ad from now on.\n4. Rename old ones when you next touch them.\n\nName it once, read it forever. Save this for your next build.\n\n#campaignnaming #adops #marketingops #paidmedia",
       "topic": "tracking",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR16",
@@ -379,7 +409,9 @@
       ],
       "caption": "Daily budget or lifetime budget? Both work, but they suit different plans.\n\nDaily budget: an average amount per day. Best for always-on campaigns. Spend can vary a little from day to day.\nLifetime budget: a total for the whole run. Best for campaigns with fixed start and end dates. The platform paces spend across the dates.\n\nDo this today:\n1. Ask whether the campaign has a fixed end date.\n2. If it does, consider a lifetime budget with a clear schedule.\n3. If it runs continuously, use a daily budget.\n4. Check pacing after the first few days.\n\nMatch the budget to the plan. Swipe for the full guide and save this for your next launch.\n\n#metaads #adbudget #paidmedia #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR17",
@@ -394,7 +426,9 @@
       ],
       "caption": "Where does your ad actually show? In Meta Ads, placements decide whether people see it in feeds, stories, or reels.\n\nAutomatic placements: the platform spreads your ad across them.\nManual placements: you choose each one yourself.\n\nDo this today:\n1. Start with automatic placements.\n2. After a week, open the placement breakdown in your report.\n3. Remove the placements that clearly do not work for your goal.\n4. Build creative that fits: vertical for stories and reels, square or portrait for feeds, and keep key text away from the edges.\n\nOne idea, several formats. Swipe for the checklist and save this for your next campaign.\n\n#metaads #adplacements #paidsocial #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR18",
@@ -409,7 +443,9 @@
       ],
       "caption": "A bid strategy tells the platform how to spend your budget. Here are three common choices in Meta Ads.\n\nLowest cost: spend the budget to get the most results.\nCost cap: aim for an average cost per result.\nBid cap: set the most you will pay in any single auction.\n\nA simple path:\n1. Start with lowest cost so the platform can learn.\n2. Learn your typical cost per result.\n3. Then test a cost cap, using that number as your target.\n4. Change one thing at a time.\n\nControl comes after data. Swipe for the steps and save this for your next campaign.\n\n#metaads #bidstrategy #paidmedia #digitalmarketing",
       "topic": "advertising",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR19",
@@ -424,7 +460,9 @@
       ],
       "caption": "Can people read your design in half a second? Contrast decides.\n\nText needs strong contrast against its background. If it is hard to read, it will not be read.\n\nDo this today:\n1. Squint at your design, or switch it to grayscale. If the text fades, the contrast is too weak.\n2. Fix it with a darker overlay, a bigger size, or a heavier weight.\n3. View it on a phone, since that is where most people will see it.\n4. Step back from the screen. If you hesitate to read it, fix it.\n\nSwipe for the checklist. Save this for your next design, and send it to your designer.\n\n#graphicdesign #designtips #socialmediadesign #branding",
       "topic": "design",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR20",
@@ -439,7 +477,9 @@
       ],
       "caption": "Type hierarchy decides what the eye reads first. Three simple tools control it: size, weight, and space.\n\nSize: bigger reads first.\nWeight: bolder stands out.\nSpace: room around text gives it importance.\n\nDo this today:\n1. Decide the single most important line in your design.\n2. Make it the biggest and boldest element.\n3. Add one supporting line, smaller and lighter.\n4. Keep small details for last, and stop at three levels. More levels add noise.\n\nSwipe for the full guide and save this for your next layout.\n\n#typography #graphicdesign #designtips #socialmediadesign",
       "topic": "design",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR21",
@@ -454,7 +494,9 @@
       ],
       "caption": "A brand style guide does not need to be a 50-page document. One page is enough to start, and it keeps every post looking like the same brand.\n\nConsistency builds memory. When posts look different, people take longer to recognize you.\n\nDo this today:\n1. List your colors with exact codes.\n2. Pick two fonts and write where each one is used.\n3. Add logo spacing and size rules.\n4. Share the page with everyone who makes content, and add more rules as you grow.\n\nSwipe for the starter page. Save this for your team.\n\n#brandidentity #brandguidelines #graphicdesign #branding",
       "topic": "design",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR22",
@@ -469,7 +511,9 @@
       ],
       "caption": "A creative brief is five lines that can save a week of back and forth.\n\nWhat goes in it:\n1. The goal\n2. The audience\n3. The one message\n4. The proof\n5. The next step\n\nDo this today:\n1. Write the brief on one page before any design or video work starts.\n2. Keep to one message. If there are three, there are none.\n3. Add proof: a result, a quote, or a demo.\n4. State what the viewer should do next.\n\nA clear brief makes better creative every time. Swipe for the breakdown and save this for your next project.\n\n#creativebrief #contentcreation #marketingtips #creativeprocess",
       "topic": "creative",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR23",
@@ -484,7 +528,9 @@
       ],
       "caption": "\"I don't like it\" gives a designer nothing to work with. Specific feedback beats loud feedback.\n\nUse this format:\n1. The goal we are aiming for\n2. What is not working yet\n3. One thing to try next\n\nDo this today:\n1. Before you comment, restate the goal in one sentence.\n2. Name the problem, not the fix, when you are unsure of the solution.\n3. Suggest one direction to try, and keep the rest for the next round.\n4. Problem first, solution second.\n\nSwipe for the format. Save this for your next review and send it to your team.\n\n#creativefeedback #designprocess #creativedirection #marketingteam",
       "topic": "creative",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR24",
@@ -499,7 +545,9 @@
       ],
       "caption": "Better input, better output. A good AI prompt has five parts.\n\n1. Role: who it should act as\n2. Task: what to do\n3. Context: what it needs to know\n4. Format: how to answer\n5. Limits: what to avoid\n\nExample. Vague: \"Write a post about ads.\" Clear: \"Act as a social editor. Write 3 caption options for a carousel on retargeting. Plain language. No hype.\"\n\nDo this today:\n1. Rewrite one of your usual prompts with all five parts.\n2. Compare the result to what you got before.\n3. Edit the draft like a human.\n\nSwipe for the example and save this for your next prompt.\n\n#aiprompts #aimarketing #promptengineering #contentcreation",
       "topic": "ai",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR25",
@@ -514,7 +562,9 @@
       ],
       "caption": "AI can state wrong things in a confident tone. Confident is not correct.\n\nThe risk is highest in names, numbers, dates, and sources.\n\nDo this before anything goes live:\n1. Check every number and name.\n2. Open the source yourself and confirm it says what the draft claims.\n3. Read the text aloud to check the tone.\n4. Have a person sign off, every time.\n\nAI drafts. People decide. Swipe for the checklist and save this for your team.\n\n#aimarketing #aitools #contentcreation #marketingops",
       "topic": "ai",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "CR26",
@@ -529,7 +579,9 @@
       ],
       "caption": "If everyone on your team rewrites the same prompts, results vary from person to person. A shared prompt library fixes that.\n\nDo this today:\n1. Save the prompts that worked.\n2. Label each one by task, like \"caption draft\" or \"ad headline options\".\n3. Add a sample output next to each one so others know what good looks like.\n4. Review the library once a month and remove what no longer works.\n\nA shared library keeps quality steady and saves time. Swipe for the steps and save this for your team.\n\n#aiworkflow #promptengineering #aimarketing #marketingops",
       "topic": "ai",
-      "is_ad": false
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     }
   ]
 }
