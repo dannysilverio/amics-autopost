@@ -320,6 +320,96 @@
       "caption": "Every ad account is organized in three levels, and knowing what lives at each one keeps your testing clean.\n\nCampaign: the goal.\nAd set: the audience, budget, schedule, and placements.\nAd: the creative and the copy.\n\nDo this today:\n1. Choose the goal first, since everything else follows from it.\n2. Define the audience in the ad set.\n3. Build the creative last, and test one thing at a time.\n4. Name each level clearly, so you can read your reports later.\n\nGoal first, creative last. Swipe for the full guide and save this for your next build.\n\n#metaads #adstructure #paidmedia #digitalmarketing",
       "topic": "advertising",
       "is_ad": false
+    },
+    {
+      "id": "CR13",
+      "title": "Incrementality",
+      "type": "carousel",
+      "post_after": "2026-10-30T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_4.jpg"
+      ],
+      "caption": "Did your ad cause the sale, or did it just get the credit? That is the difference between attribution and incrementality.\n\nAttribution shows who saw an ad and then bought. Incrementality asks who would NOT have bought without the ad. Some buyers were already on their way.\n\nRun a simple test:\n1. Hold out a region or an audience, and do not show them the ads.\n2. Run the ads for everyone else for a set period.\n3. Compare results between the two groups.\n4. The gap between them is your true lift.\n\nSwipe for the steps. Save this for your next test, and send it to whoever reports your results.\n\n#incrementality #marketingmeasurement #paidmedia #adops",
+      "topic": "measurement",
+      "is_ad": false
+    },
+    {
+      "id": "CR14",
+      "title": "Conversion lag",
+      "type": "carousel",
+      "post_after": "2026-10-31T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_4.jpg"
+      ],
+      "caption": "Do your most recent days always look weaker than the rest? That is probably conversion lag.\n\nConversion lag is the time between an ad click and the purchase. People click today and buy later, so the last few days of a report keep filling in.\n\nDo this today:\n1. Find your typical delay. Look at how long past customers took from first click to purchase.\n2. Avoid judging yesterday or the day before.\n3. Compare matured days only, meaning days where the full lag window has passed.\n4. Expect longer lag for bigger decisions.\n\nGive the numbers time to arrive before you make a call. Swipe for the steps and save this for report day.\n\n#conversionlag #marketinganalytics #metaads #adops",
+      "topic": "measurement",
+      "is_ad": false
+    },
+    {
+      "id": "CR15",
+      "title": "Campaign naming",
+      "type": "carousel",
+      "post_after": "2026-11-01T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_4.jpg"
+      ],
+      "caption": "Messy campaign names make reports hard to read, hard to filter, and hard to hand off. The fix is one naming pattern that everyone uses.\n\nA simple pattern:\n1. Platform and objective, like meta_leads\n2. Audience and creative, like warm_video3\n3. Start date, like oct\n\nPut together: meta_leads_warm_video3_oct\n\nDo this today:\n1. Agree on the pattern with your team.\n2. Write it in a shared doc.\n3. Use it for every campaign, ad set, and ad from now on.\n4. Rename old ones when you next touch them.\n\nName it once, read it forever. Save this for your next build.\n\n#campaignnaming #adops #marketingops #paidmedia",
+      "topic": "tracking",
+      "is_ad": false
+    },
+    {
+      "id": "CR16",
+      "title": "Daily vs lifetime budget",
+      "type": "carousel",
+      "post_after": "2026-11-02T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_4.jpg"
+      ],
+      "caption": "Daily budget or lifetime budget? Both work, but they suit different plans.\n\nDaily budget: an average amount per day. Best for always-on campaigns. Spend can vary a little from day to day.\nLifetime budget: a total for the whole run. Best for campaigns with fixed start and end dates. The platform paces spend across the dates.\n\nDo this today:\n1. Ask whether the campaign has a fixed end date.\n2. If it does, consider a lifetime budget with a clear schedule.\n3. If it runs continuously, use a daily budget.\n4. Check pacing after the first few days.\n\nMatch the budget to the plan. Swipe for the full guide and save this for your next launch.\n\n#metaads #adbudget #paidmedia #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR17",
+      "title": "Ad placements",
+      "type": "carousel",
+      "post_after": "2026-11-03T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_4.jpg"
+      ],
+      "caption": "Where does your ad actually show? In Meta Ads, placements decide whether people see it in feeds, stories, or reels.\n\nAutomatic placements: the platform spreads your ad across them.\nManual placements: you choose each one yourself.\n\nDo this today:\n1. Start with automatic placements.\n2. After a week, open the placement breakdown in your report.\n3. Remove the placements that clearly do not work for your goal.\n4. Build creative that fits: vertical for stories and reels, square or portrait for feeds, and keep key text away from the edges.\n\nOne idea, several formats. Swipe for the checklist and save this for your next campaign.\n\n#metaads #adplacements #paidsocial #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR18",
+      "title": "Bid strategies",
+      "type": "carousel",
+      "post_after": "2026-11-04T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_4.jpg"
+      ],
+      "caption": "A bid strategy tells the platform how to spend your budget. Here are three common choices in Meta Ads.\n\nLowest cost: spend the budget to get the most results.\nCost cap: aim for an average cost per result.\nBid cap: set the most you will pay in any single auction.\n\nA simple path:\n1. Start with lowest cost so the platform can learn.\n2. Learn your typical cost per result.\n3. Then test a cost cap, using that number as your target.\n4. Change one thing at a time.\n\nControl comes after data. Swipe for the steps and save this for your next campaign.\n\n#metaads #bidstrategy #paidmedia #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
     }
   ]
 }
