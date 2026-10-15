@@ -62,7 +62,7 @@
       "title": "AI and missed calls",
       "type": "reel",
       "post_after": "2026-10-16T14:00:00+00:00",
-      "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/hf_20261014_170247_92b50d10-2c8a-4677-9c50-b1b874a425e7.mp4",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/310299db-ac33-4fba-b3c7-bcbeb8f6ff54.mp4",
       "caption": "Many callers move on when a call goes to voicemail. AI can answer instantly, ask the right questions, and book the appointment. It catches what a team cannot get to.\n\n#ai #aimarketing #marketingautomation #digitalmarketing\n\n@amicsadagency",
       "topic": "ai",
       "script": "If your office phone goes to voicemail, many callers just call the next business. An AI receptionist can answer instantly, ask the right questions, and book the appointment. It does not replace your team. It catches what your team cannot get to.",
@@ -80,8 +80,9 @@
       "topic": "advertising",
       "script": "Ads get tired. When people see the same image again and again, they stop noticing it. Your numbers slip and you blame the platform. Often the fix is simple. Refresh the creative, test a new angle, and keep the offer clear.",
       "is_ad": false,
-      "approved": true,
-      "approval_note": "auto-gate passed"
+      "approved": false,
+      "approval_note": "auto-gate passed",
+      "hold": true
     },
     {
       "id": "E9",
@@ -93,8 +94,9 @@
       "topic": "advertising",
       "script": "You paid for the click. Now do not waste it. A landing page should ask for one thing, a call or a booking, and make it easy. Every extra link, menu, or option is another reason for the visitor to leave.",
       "is_ad": false,
-      "approved": true,
-      "approval_note": "auto-gate passed"
+      "approved": false,
+      "approval_note": "auto-gate passed",
+      "hold": true
     },
     {
       "id": "E10",
@@ -106,8 +108,9 @@
       "topic": "ai",
       "script": "AI is great at the boring work. Drafting first versions, sorting leads, answering common questions, summarizing calls. It is weak at judgment and trust. Use it to give your team more time for the human parts, not to replace them.",
       "is_ad": false,
-      "approved": true,
-      "approval_note": "auto-gate passed"
+      "approved": false,
+      "approval_note": "auto-gate passed",
+      "hold": true
     },
     {
       "id": "E11",
@@ -119,8 +122,9 @@
       "topic": "marketing",
       "script": "Performance marketing harvests demand that already exists. Brand marketing creates it. If you only run performance, you slowly run out of people who know you. A healthy plan funds both, and measures each one differently.",
       "is_ad": false,
-      "approved": true,
-      "approval_note": "auto-gate passed"
+      "approved": false,
+      "approval_note": "auto-gate passed",
+      "hold": true
     },
     {
       "id": "E12",
@@ -132,8 +136,190 @@
       "topic": "marketing",
       "script": "Every customer moves through three stages. They notice you, they consider you, then they decide. Most wasted ad spend comes from showing a decision message to someone who has only just noticed you. Match the message to the stage.",
       "is_ad": false,
-      "approved": true,
-      "approval_note": "auto-gate passed"
+      "approved": false,
+      "approval_note": "auto-gate passed",
+      "hold": true
+    },
+    {
+      "id": "CR1",
+      "title": "Which post drove the sale (UTM tags)",
+      "type": "carousel",
+      "post_after": "2026-10-17T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c1_utm_tags_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c1_utm_tags_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c1_utm_tags_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c1_utm_tags_4.jpg"
+      ],
+      "caption": "Which post actually drove the sale? Most teams cannot answer that, and the fix takes about two minutes per link.\n\nUTM tags are short labels added to the end of a link. When someone clicks, your analytics tool reads the label and tells you exactly where that visit came from.\n\nDo this today:\n1. Pick three tags for every link you share: source (instagram), medium (social or email or paid), and campaign (the name of the push, like fall_launch).\n2. Use the same spelling and lowercase every time. \"Instagram\" and \"instagram\" show up as two different sources.\n3. Keep a simple sheet with the naming rule so everyone on your team follows it.\n4. Open your analytics tool after a week and compare campaigns side by side.\n\nSwipe through for the full breakdown. Save this for your next link, and send it to whoever builds your links.\n\n#utmtracking #marketinganalytics #digitalmarketing #adops",
+      "topic": "tracking",
+      "is_ad": false
+    },
+    {
+      "id": "CR2",
+      "title": "Ad metrics decoded",
+      "type": "carousel",
+      "post_after": "2026-10-18T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c2_ad_metrics_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c2_ad_metrics_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c2_ad_metrics_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c2_ad_metrics_4.jpg"
+      ],
+      "caption": "Four numbers show up in almost every ad report. Here is what each one means and what to check first.\n\nCPM: what you pay to be shown 1,000 times.\nCTR: out of everyone who saw the ad, how many clicked.\nCPC: what you pay for one click.\nCPA: what you pay for one result, like a lead or a sale.\n\nDo this today:\n1. Open your last report and find all four numbers for each campaign.\n2. If CPM is high, attention is getting expensive. Look at the audience and the creative.\n3. If CTR is low, the message is not matching the person. Test a new hook.\n4. If CPA is high while clicks look fine, check the step after the click.\n5. Change one thing at a time, then re-check in a week.\n\nSave this for report day. Comment \"metrics\" if you want the next post to go deeper on one of them.\n\n#adspend #paidmedia #marketingmetrics #digitalmarketing",
+      "topic": "measurement",
+      "is_ad": false
+    },
+    {
+      "id": "CR3",
+      "title": "Audience size",
+      "type": "carousel",
+      "post_after": "2026-10-20T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_4.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_5.jpg"
+      ],
+      "caption": "Is your ad audience too narrow or too broad? Both cost you, in different ways.\n\nToo narrow: the platform has little room to learn, delivery stalls, and prices climb.\nToo broad: the message tries to speak to everyone, and you get clicks from people who were never a fit.\n\nDo this today:\n1. Start with a clear location. Be specific about where your customers actually are.\n2. Add one or two interests, or none at all, and let the platform find people.\n3. Run it for a full week before judging.\n4. If delivery stalls, widen a little. If clicks come from the wrong people, tighten the targeting or sharpen the message.\n\nSwipe for the full checklist. Save this for your next campaign.\n\n#metaads #facebookads #adtargeting #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR4",
+      "title": "Retargeting explained",
+      "type": "carousel",
+      "post_after": "2026-10-21T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_4.jpg"
+      ],
+      "caption": "Retargeting means showing ads to people who already know you. That is why it needs a different message than a first hello.\n\nWho to include:\n1. Website visitors from the last few weeks\n2. People who watched a good portion of your videos\n3. People who engaged with your Instagram profile or posts\n\nDo this today:\n1. Build one retargeting audience, starting with website visitors.\n2. Keep the window short so the audience stays warm. Fewer days usually means a fresher audience.\n3. Write a message for someone who has already seen you: answer a common question, show a result, or make the next step easy.\n4. Do not reuse your cold ad. Warm people need a different message.\n\nSave this for your next campaign, and send it to whoever runs your ads.\n\n#retargeting #remarketing #metaads #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR5",
+      "title": "Lookalike audiences",
+      "type": "carousel",
+      "post_after": "2026-10-22T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_4.jpg"
+      ],
+      "caption": "A lookalike audience finds new people who resemble your best customers. The quality of the result depends almost entirely on the list you start with.\n\nThat starting list is called the seed.\n\nDo this today:\n1. Export a list of real buyers, not just visitors or followers.\n2. Use recent customers, because they reflect who is buying now.\n3. Make sure the list is large enough for the platform to use. Check the platform's minimum size.\n4. Upload it as a custom audience, then create the lookalike from it.\n5. Test it against a broad audience and compare results after a week.\n\nBetter seed, better lookalike. Swipe for the checklist and save this for your next audience.\n\n#lookalikeaudience #metaads #adtargeting #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR6",
+      "title": "Attribution windows",
+      "type": "carousel",
+      "post_after": "2026-10-23T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_4.jpg"
+      ],
+      "caption": "Why do two reports show different sales for the same campaign? Usually it comes down to the attribution window.\n\n7-day click counts a sale if someone clicked your ad and bought within 7 days.\n1-day view counts a sale if someone saw your ad, did not click, and bought within a day.\n\nSame sale, different rules, different numbers.\n\nDo this today:\n1. Check which attribution window each report uses. It is usually in the column settings.\n2. Match the window across reports before you compare them.\n3. Match the date range, including the time zone.\n4. Match the definition of a conversion, so you are counting the same event.\n5. Write the window next to every number you share.\n\nSave this for report day, and send it to anyone who compares dashboards.\n\n#attribution #marketinganalytics #metaads #adops",
+      "topic": "measurement",
+      "is_ad": false
+    },
+    {
+      "id": "CR7",
+      "title": "Keyword match types",
+      "type": "carousel",
+      "post_after": "2026-10-24T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_4.jpg"
+      ],
+      "caption": "In Google Ads, match types decide which searches can trigger your ad. Choosing the right one controls both reach and waste.\n\nBroad: the widest reach, related searches included, and the least control.\nPhrase: searches that carry the meaning of your keyword.\nExact: searches with the same meaning as your keyword.\n\nDo this today:\n1. Start tighter, with phrase or exact on your best keywords.\n2. Open the search terms report and read the real searches that triggered your ads.\n3. Add the ones that fit as keywords, and block the ones that do not.\n4. Widen only the keywords that have earned it.\n\nControl first, reach second. Swipe for the full guide and save this for your next search campaign.\n\n#googleads #searchads #ppc #paidmedia",
+      "topic": "paid media",
+      "is_ad": false
+    },
+    {
+      "id": "CR8",
+      "title": "Negative keywords",
+      "type": "carousel",
+      "post_after": "2026-10-25T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_4.jpg"
+      ],
+      "caption": "Negative keywords tell Google what NOT to show your ad for. They are one of the simplest ways to stop wasting budget on searches that were never going to convert.\n\nExample: a law firm adds the words \"free\" and \"jobs\" so people looking for free help or employment do not click.\n\nDo this today:\n1. Open the search terms report in Google Ads.\n2. Scan for searches that do not fit what you offer.\n3. Add those words as negative keywords.\n4. Repeat every week. The list gets sharper and your spend gets cleaner over time.\n\nSwipe for the steps. Save this for your next review and share it with whoever manages your search ads.\n\n#googleads #ppc #searchads #paidmedia",
+      "topic": "paid media",
+      "is_ad": false
+    },
+    {
+      "id": "CR9",
+      "title": "Google Quality Score",
+      "type": "carousel",
+      "post_after": "2026-10-26T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_4.jpg"
+      ],
+      "caption": "Google gives each keyword a Quality Score from 1 to 10. It looks at three things, and better quality can lower your cost per click.\n\n1. Expected click rate\n2. Ad relevance\n3. Landing page experience\n\nDo this today:\n1. Group keywords by theme, so each ad group covers one idea.\n2. Write ads that mirror the words people actually search.\n3. Make sure the landing page delivers what the ad promised.\n4. Check the Quality Score columns in your keyword view and start with the lowest scores.\n\nRelevance is rewarded. Swipe for the breakdown and save this for your next search campaign.\n\n#googleads #qualityscore #ppc #paidmedia",
+      "topic": "paid media",
+      "is_ad": false
+    },
+    {
+      "id": "CR10",
+      "title": "Reach vs impressions",
+      "type": "carousel",
+      "post_after": "2026-10-27T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_4.jpg"
+      ],
+      "caption": "Reach and impressions sound alike, but they answer different questions.\n\nReach: how many different people saw your ad.\nImpressions: how many times your ad was shown.\n\nExample: one person who sees your ad 3 times is 1 reach and 3 impressions.\n\nDo this today:\n1. Use reach when you want to know the size of the audience you touched.\n2. Use impressions when you want to track volume.\n3. Compare the two to see how often each person is seeing the ad.\n4. Label which one you mean whenever you share a report.\n\nSave this for report day, and send it to a teammate who mixes them up.\n\n#adreporting #marketingmetrics #metaads #digitalmarketing",
+      "topic": "measurement",
+      "is_ad": false
+    },
+    {
+      "id": "CR11",
+      "title": "The learning phase",
+      "type": "carousel",
+      "post_after": "2026-10-28T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_4.jpg"
+      ],
+      "caption": "New ads often wobble in the first days. That is the learning phase, and it is normal.\n\nDuring it, the platform is still testing who to show your ad to. Meta looks for about 50 results in 7 days per ad set to exit it, so results can swing from day to day until then.\n\nDo this today:\n1. Avoid editing budgets, audiences, or creative every day while it learns.\n2. Make sure your budget is large enough to reach that number of results for your chosen goal.\n3. Use fewer ad sets so each one gets enough data.\n4. Judge performance after the learning period, not on day two.\n\nPatience is a strategy. Swipe for the common mistakes and save this for your next launch.\n\n#metaads #facebookads #adlearning #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
+    },
+    {
+      "id": "CR12",
+      "title": "Campaign structure",
+      "type": "carousel",
+      "post_after": "2026-10-29T14:00:00+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_4.jpg"
+      ],
+      "caption": "Every ad account is organized in three levels, and knowing what lives at each one keeps your testing clean.\n\nCampaign: the goal.\nAd set: the audience, budget, schedule, and placements.\nAd: the creative and the copy.\n\nDo this today:\n1. Choose the goal first, since everything else follows from it.\n2. Define the audience in the ad set.\n3. Build the creative last, and test one thing at a time.\n4. Name each level clearly, so you can read your reports later.\n\nGoal first, creative last. Swipe for the full guide and save this for your next build.\n\n#metaads #adstructure #paidmedia #digitalmarketing",
+      "topic": "advertising",
+      "is_ad": false
     }
   ]
 }
