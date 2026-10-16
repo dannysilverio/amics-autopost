@@ -68,7 +68,11 @@
       "script": "If your office phone goes to voicemail, many callers just call the next business. An AI receptionist can answer instantly, ask the right questions, and book the appointment. It does not replace your team. It catches what your team cannot get to.",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-16T21:30:18.738884+00:00",
+      "post_ids": {
+        "instagram": "18115710515012688"
+      }
     },
     {
       "id": "E7",
