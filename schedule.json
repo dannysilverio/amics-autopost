@@ -159,7 +159,11 @@
       "topic": "tracking",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-17T21:30:19.581287+00:00",
+      "post_ids": {
+        "instagram": "18117045077329713"
+      }
     },
     {
       "id": "CR2",
