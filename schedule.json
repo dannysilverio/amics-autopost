@@ -180,7 +180,11 @@
       "topic": "measurement",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-18T21:30:20.147059+00:00",
+      "post_ids": {
+        "instagram": "18105468887198720"
+      }
     },
     {
       "id": "CR3",
