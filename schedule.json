@@ -598,6 +598,25 @@
       "is_ad": false,
       "approved": true,
       "approval_note": "auto-gate passed"
+    },
+    {
+      "id": "CR27",
+      "title": "Platform differences",
+      "type": "carousel",
+      "post_after": "2026-10-20T01:37:16+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c27_platform_differences_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c27_platform_differences_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c27_platform_differences_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c27_platform_differences_4.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c27_platform_differences_5.jpg"
+      ],
+      "caption": "Meta, Google, TikTok and Snapchat are not interchangeable. Each one does a different job.\n\nGoogle: people searching for a fix right now. Best for catching demand that already exists.\nMeta: people scrolling who were not looking. Best for building demand with strong visuals and local targeting.\nTikTok: people there to be entertained. Best for discovery with short video that feels native, not like an ad.\nSnapchat: camera-first and quick. Best for reaching younger audiences. Test small first.\n\nDo this today:\n1. Write down the one job you need an ad to do: capture people who are searching, or introduce yourself to new people.\n2. Searching for you already? Start with Google.\n3. Need new people to find you? Start with Meta, then test TikTok with a short video that does not look like an ad.\n4. Pick one platform, run it for a full week, and judge it before adding another.\n\nSwipe for the full breakdown. Save this for your next campaign, and send it to whoever runs your ads.\n\n#digitalmarketing #metaads #googleads #tiktokads #snapchatads\n",
+      "topic": "advertising",
+      "script": "Which platform fits the job: Google for searchers, Meta for scrollers, TikTok for entertainment, Snapchat for camera-first younger audiences.",
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed"
     }
   ]
 }
