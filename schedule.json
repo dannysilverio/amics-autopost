@@ -190,7 +190,7 @@
       "id": "CR3",
       "title": "Audience size",
       "type": "carousel",
-      "post_after": "2026-10-20T14:00:00+00:00",
+      "post_after": "2026-10-20T01:34:07+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c3_audience_size_2.jpg",
@@ -208,7 +208,7 @@
       "id": "CR4",
       "title": "Retargeting explained",
       "type": "carousel",
-      "post_after": "2026-10-21T14:00:00+00:00",
+      "post_after": "2026-10-20T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c4_retargeting_2.jpg",
@@ -225,7 +225,7 @@
       "id": "CR5",
       "title": "Lookalike audiences",
       "type": "carousel",
-      "post_after": "2026-10-22T14:00:00+00:00",
+      "post_after": "2026-10-21T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c5_lookalikes_2.jpg",
@@ -242,7 +242,7 @@
       "id": "CR6",
       "title": "Attribution windows",
       "type": "carousel",
-      "post_after": "2026-10-23T14:00:00+00:00",
+      "post_after": "2026-10-22T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c6_attribution_2.jpg",
@@ -259,7 +259,7 @@
       "id": "CR7",
       "title": "Keyword match types",
       "type": "carousel",
-      "post_after": "2026-10-24T14:00:00+00:00",
+      "post_after": "2026-10-23T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c7_match_types_2.jpg",
@@ -276,7 +276,7 @@
       "id": "CR8",
       "title": "Negative keywords",
       "type": "carousel",
-      "post_after": "2026-10-25T14:00:00+00:00",
+      "post_after": "2026-10-24T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c8_negative_keywords_2.jpg",
@@ -293,7 +293,7 @@
       "id": "CR9",
       "title": "Google Quality Score",
       "type": "carousel",
-      "post_after": "2026-10-26T14:00:00+00:00",
+      "post_after": "2026-10-25T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c9_quality_score_2.jpg",
@@ -310,7 +310,7 @@
       "id": "CR10",
       "title": "Reach vs impressions",
       "type": "carousel",
-      "post_after": "2026-10-27T14:00:00+00:00",
+      "post_after": "2026-10-26T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c10_reach_impressions_2.jpg",
@@ -327,7 +327,7 @@
       "id": "CR11",
       "title": "The learning phase",
       "type": "carousel",
-      "post_after": "2026-10-28T14:00:00+00:00",
+      "post_after": "2026-10-27T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c11_learning_phase_2.jpg",
@@ -344,7 +344,7 @@
       "id": "CR12",
       "title": "Campaign structure",
       "type": "carousel",
-      "post_after": "2026-10-29T14:00:00+00:00",
+      "post_after": "2026-10-28T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c12_campaign_structure_2.jpg",
@@ -361,7 +361,7 @@
       "id": "CR13",
       "title": "Incrementality",
       "type": "carousel",
-      "post_after": "2026-10-30T14:00:00+00:00",
+      "post_after": "2026-10-29T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c13_incrementality_2.jpg",
@@ -378,7 +378,7 @@
       "id": "CR14",
       "title": "Conversion lag",
       "type": "carousel",
-      "post_after": "2026-10-31T14:00:00+00:00",
+      "post_after": "2026-10-30T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c14_conversion_lag_2.jpg",
@@ -395,7 +395,7 @@
       "id": "CR15",
       "title": "Campaign naming",
       "type": "carousel",
-      "post_after": "2026-11-01T14:00:00+00:00",
+      "post_after": "2026-10-31T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c15_naming_2.jpg",
@@ -412,7 +412,7 @@
       "id": "CR16",
       "title": "Daily vs lifetime budget",
       "type": "carousel",
-      "post_after": "2026-11-02T14:00:00+00:00",
+      "post_after": "2026-11-01T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c16_budget_types_2.jpg",
@@ -429,7 +429,7 @@
       "id": "CR17",
       "title": "Ad placements",
       "type": "carousel",
-      "post_after": "2026-11-03T14:00:00+00:00",
+      "post_after": "2026-11-02T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c17_placements_2.jpg",
@@ -446,7 +446,7 @@
       "id": "CR18",
       "title": "Bid strategies",
       "type": "carousel",
-      "post_after": "2026-11-04T14:00:00+00:00",
+      "post_after": "2026-11-03T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c18_bid_strategies_2.jpg",
@@ -463,7 +463,7 @@
       "id": "CR19",
       "title": "Contrast and readability",
       "type": "carousel",
-      "post_after": "2026-11-05T14:00:00+00:00",
+      "post_after": "2026-11-04T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c19_contrast_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c19_contrast_2.jpg",
@@ -480,7 +480,7 @@
       "id": "CR20",
       "title": "Type hierarchy",
       "type": "carousel",
-      "post_after": "2026-11-07T14:00:00+00:00",
+      "post_after": "2026-11-05T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c20_type_hierarchy_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c20_type_hierarchy_2.jpg",
@@ -497,7 +497,7 @@
       "id": "CR21",
       "title": "Brand style guide basics",
       "type": "carousel",
-      "post_after": "2026-11-08T14:00:00+00:00",
+      "post_after": "2026-11-06T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c21_style_guide_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c21_style_guide_2.jpg",
@@ -514,7 +514,7 @@
       "id": "CR22",
       "title": "The creative brief",
       "type": "carousel",
-      "post_after": "2026-11-10T14:00:00+00:00",
+      "post_after": "2026-11-07T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c22_creative_brief_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c22_creative_brief_2.jpg",
@@ -531,7 +531,7 @@
       "id": "CR23",
       "title": "Giving creative feedback",
       "type": "carousel",
-      "post_after": "2026-11-12T14:00:00+00:00",
+      "post_after": "2026-11-08T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c23_feedback_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c23_feedback_2.jpg",
@@ -548,7 +548,7 @@
       "id": "CR24",
       "title": "A better AI prompt",
       "type": "carousel",
-      "post_after": "2026-11-14T14:00:00+00:00",
+      "post_after": "2026-11-09T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c24_ai_prompts_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c24_ai_prompts_2.jpg",
@@ -565,7 +565,7 @@
       "id": "CR25",
       "title": "Fact-check your AI",
       "type": "carousel",
-      "post_after": "2026-11-15T14:00:00+00:00",
+      "post_after": "2026-11-10T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c25_ai_factcheck_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c25_ai_factcheck_2.jpg",
@@ -582,7 +582,7 @@
       "id": "CR26",
       "title": "Build a prompt library",
       "type": "carousel",
-      "post_after": "2026-11-17T14:00:00+00:00",
+      "post_after": "2026-11-11T14:00:00+00:00",
       "image_urls": [
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c26_prompt_library_1.jpg",
         "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c26_prompt_library_2.jpg",
