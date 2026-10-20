@@ -616,7 +616,11 @@
       "script": "Which platform fits the job: Google for searchers, Meta for scrollers, TikTok for entertainment, Snapchat for camera-first younger audiences.",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-20T01:42:24.903735+00:00",
+      "post_ids": {
+        "instagram": "18132892054763062"
+      }
     }
   ]
 }
