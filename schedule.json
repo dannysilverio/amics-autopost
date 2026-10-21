@@ -92,15 +92,15 @@
       "id": "E9",
       "title": "One page, one action",
       "type": "reel",
-      "post_after": "2026-10-21T14:00:00+00:00",
-      "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3F1I8FyjRHkrwJS92lpJAs4cwWb/hf_20261014_170255_8ee16de5-ee36-40b2-af99-d0c239bdcd55.mp4",
+      "post_after": "2026-10-21T15:00:00+00:00",
+      "video_url": "https://raw.githubusercontent.com/dannysilverio/amics-media/main/reels/e9_1080_captioned.mp4",
       "caption": "You paid for the click, so do not waste it. A landing page should ask for one thing and make it easy. Every extra link is another reason to leave.\n\n#advertising #paidmedia #marketingtips #digitalmarketing\n\n@amicsadagency",
       "topic": "advertising",
       "script": "You paid for the click. Now do not waste it. A landing page should ask for one thing, a call or a booking, and make it easy. Every extra link, menu, or option is another reason for the visitor to leave.",
       "is_ad": false,
-      "approved": false,
+      "approved": true,
       "approval_note": "auto-gate passed",
-      "hold": true
+      "hold": false
     },
     {
       "id": "E10",
