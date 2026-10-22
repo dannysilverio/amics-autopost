@@ -269,7 +269,11 @@
       "topic": "measurement",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-22T21:30:20.168457+00:00",
+      "post_ids": {
+        "instagram": "18026759654704321"
+      }
     },
     {
       "id": "CR7",
