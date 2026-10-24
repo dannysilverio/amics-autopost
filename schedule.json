@@ -311,7 +311,11 @@
       "topic": "paid media",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-24T21:30:18.676296+00:00",
+      "post_ids": {
+        "instagram": "17877467898635368"
+      }
     },
     {
       "id": "CR9",
