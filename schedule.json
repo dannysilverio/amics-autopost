@@ -30,7 +30,8 @@
       "script": "A Meta Pixel is a small piece of code on your website. It tells Meta what a visitor did, like viewing a page or booking a call. Meta uses that to find more people like them. No pixel, no learning, and the algorithm is flying blind.",
       "is_ad": false,
       "hold": false,
-      "approved": false
+      "approved": true,
+      "approval_note": "auto-gate passed"
     },
     {
       "id": "E14",
@@ -43,7 +44,12 @@
       "script": "On social, people decide almost instantly whether to keep watching. Your opening has to earn the next few seconds. Lead with the problem or the surprising result, not your logo. Put the context after you have their attention.",
       "is_ad": false,
       "hold": false,
-      "approved": false
+      "approved": true,
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-24T23:47:19.122552+00:00",
+      "post_ids": {
+        "instagram": "18088323554291473"
+      }
     },
     {
       "id": "E4",
@@ -89,7 +95,7 @@
       "topic": "advertising",
       "script": "Ads get tired. When people see the same image again and again, they stop noticing it. Your numbers slip and you blame the platform. Often the fix is simple. Refresh the creative, test a new angle, and keep the offer clear.",
       "is_ad": false,
-      "approved": false,
+      "approved": true,
       "approval_note": "auto-gate passed",
       "hold": false
     },
@@ -121,7 +127,7 @@
       "topic": "ai",
       "script": "AI is great at the boring work. Drafting first versions, sorting leads, answering common questions, summarizing calls. It is weak at judgment and trust. Use it to give your team more time for the human parts, not to replace them.",
       "is_ad": false,
-      "approved": false,
+      "approved": true,
       "approval_note": "auto-gate passed",
       "hold": false
     },
@@ -135,7 +141,7 @@
       "topic": "marketing",
       "script": "Performance marketing harvests demand that already exists. Brand marketing creates it. If you only run performance, you slowly run out of people who know you. A healthy plan funds both, and measures each one differently.",
       "is_ad": false,
-      "approved": false,
+      "approved": true,
       "approval_note": "auto-gate passed",
       "hold": false
     },
@@ -149,7 +155,7 @@
       "topic": "marketing",
       "script": "Every customer moves through three stages. They notice you, they consider you, then they decide. Most wasted ad spend comes from showing a decision message to someone who has only just noticed you. Match the message to the stage.",
       "is_ad": false,
-      "approved": false,
+      "approved": true,
       "approval_note": "auto-gate passed",
       "hold": false
     },
