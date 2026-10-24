@@ -11,8 +11,13 @@
       "topic": "measurement",
       "script": "Most people judge an ad by clicks. Clicks are cheap and they prove nothing. The number that matters is cost per booked consultation. Track the whole path, from the first click to the signed client, or you are guessing with real money.",
       "is_ad": false,
-      "approved": false,
-      "hold": false
+      "approved": true,
+      "hold": false,
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-24T23:45:03.372677+00:00",
+      "post_ids": {
+        "instagram": "18142003930620019"
+      }
     },
     {
       "id": "E2",
