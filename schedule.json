@@ -683,8 +683,10 @@
       "approved": true,
       "approval_note": "auto-gate passed",
       "hold": false,
-      "posted_at": null,
-      "post_ids": null
+      "posted_at": "2026-10-25T16:07:12.040662+00:00",
+      "post_ids": {
+        "instagram": "17932191873165592"
+      }
     }
   ]
 }
