@@ -660,6 +660,27 @@
       "post_ids": {
         "instagram": "18132892054763062"
       }
+    },
+    {
+      "id": "CR28",
+      "title": "Brands sell feelings, not just products",
+      "type": "carousel",
+      "post_after": "2026-10-25T16:00:26+00:00",
+      "image_urls": [
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c28_brands_sell_feelings_1.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c28_brands_sell_feelings_2.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c28_brands_sell_feelings_3.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c28_brands_sell_feelings_4.jpg",
+        "https://raw.githubusercontent.com/dannysilverio/amics-media/main/carousels/c28_brands_sell_feelings_5.jpg"
+      ],
+      "caption": "People rarely buy the product alone. They buy how it makes them feel.\n\nSeven brands that sell a feeling first, and three steps to find the one behind your brand.\n\nWhich feeling does your brand sell? Tell us in the comments.\n\n#branding #marketing #brandstrategy #advertising #creative\n\n@amicsadagency",
+      "topic": "marketing",
+      "is_ad": false,
+      "approved": true,
+      "approval_note": "auto-gate passed",
+      "hold": false,
+      "posted_at": null,
+      "post_ids": null
     }
   ]
 }
