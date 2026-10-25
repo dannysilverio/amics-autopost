@@ -347,7 +347,11 @@
       "topic": "paid media",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-25T16:05:43.900605+00:00",
+      "post_ids": {
+        "instagram": "18223501381338863"
+      }
     },
     {
       "id": "CR10",
