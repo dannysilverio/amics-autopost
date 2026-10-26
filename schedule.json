@@ -133,7 +133,11 @@
       "is_ad": false,
       "approved": true,
       "approval_note": "auto-gate passed",
-      "hold": false
+      "hold": false,
+      "posted_at": "2026-10-26T21:30:18.841418+00:00",
+      "post_ids": {
+        "instagram": "18414002872085391"
+      }
     },
     {
       "id": "E11",
