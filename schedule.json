@@ -372,7 +372,11 @@
       "topic": "measurement",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-27T21:30:21.140336+00:00",
+      "post_ids": {
+        "instagram": "18108332645579102"
+      }
     },
     {
       "id": "CR11",
