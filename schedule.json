@@ -397,7 +397,11 @@
       "topic": "advertising",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-10-29T21:30:23.447286+00:00",
+      "post_ids": {
+        "instagram": "17997130902104218"
+      }
     },
     {
       "id": "CR12",
