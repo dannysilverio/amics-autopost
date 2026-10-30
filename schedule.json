@@ -169,7 +169,11 @@
       "is_ad": false,
       "approved": true,
       "approval_note": "auto-gate passed",
-      "hold": false
+      "hold": false,
+      "posted_at": "2026-10-30T21:30:19.595191+00:00",
+      "post_ids": {
+        "instagram": "17898063705610536"
+      }
     },
     {
       "id": "CR1",
