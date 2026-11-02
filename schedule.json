@@ -464,7 +464,11 @@
       "topic": "measurement",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-11-02T22:30:20.189649+00:00",
+      "post_ids": {
+        "instagram": "18130783261769988"
+      }
     },
     {
       "id": "CR15",
