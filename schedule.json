@@ -569,7 +569,11 @@
       "topic": "design",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-11-07T22:30:20.514036+00:00",
+      "post_ids": {
+        "instagram": "18114156463891267"
+      }
     },
     {
       "id": "CR20",
