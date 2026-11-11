@@ -653,7 +653,11 @@
       "topic": "creative",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-11-11T22:30:26.292099+00:00",
+      "post_ids": {
+        "instagram": "18120548579060127"
+      }
     },
     {
       "id": "CR24",
