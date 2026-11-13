@@ -695,7 +695,11 @@
       "topic": "ai",
       "is_ad": false,
       "approved": true,
-      "approval_note": "auto-gate passed"
+      "approval_note": "auto-gate passed",
+      "posted_at": "2026-11-13T22:30:21.763821+00:00",
+      "post_ids": {
+        "instagram": "18641133601022384"
+      }
     },
     {
       "id": "CR26",
